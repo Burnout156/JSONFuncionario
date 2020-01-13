@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Funcionário1",
+    "idade": 30,
+    "salario": 120000,
+    "cursos": [
+      "VB",
+      "ASP ",
+      "HTML"
+    ]
+  },
+  {
+    "nome": "Funcionário2",
+    "idade": 34,
+    "salario": 110000,
+    "cursos": [
+      "CLIPPER",
+      "COBOL",
+      "C#"
+    ]
+  },
+  {
+    "nome": "bruno",
+    "idade": 24,
+    "salario": 1200,
+    "cursos": [
+      "c",
+      "java",
+      "cobol"
+    ]
+  }
+]
